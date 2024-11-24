@@ -1,0 +1,10 @@
+[submodule "sub1"]
+	path = sub1
+	url = git@github.com:nirgeier/GitLabs.git
+[submodule "BPS"]
+	path = BPS
+	url = git@github.com:nirgeier/BPS.git
+	branch = nir1
+[submodule "BPS1"]
+	path = BPS1
+	url = git@github.com:nirgeier/BPS.git
